@@ -22,7 +22,7 @@
 
 ## Acknowledgement
 
-This program is referred to [Cai's work][2].
+This program is referred to [Long's work][1] and [Cai's work][2].
 
 [1]:https://arxiv.org/pdf/1502.02791.pdf
 
